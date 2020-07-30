@@ -1,0 +1,12 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <div class="nav-item-label">
+    <a mat-button [routerLink]="['']" routerLinkActive="active">
+      <mat-icon>flash_on</mat-icon>{{ title | uppercase }}
+    </a>
+    <a mat-button [routerLink]="['/herolist']" routerLinkActive="active">Superheroes</a>
+  </div>
+</mat-toolbar>
+
+
+<router-outlet>
+</router-outlet>

@@ -1,0 +1,71 @@
+@import '~@angular/material/theming'
+
+.componentMetadata
+  padding: 20px 5px 15px 30px
+
+table
+  width: 100%
+
+.mat-header-cell
+    flex-direction: column
+    text-align: center
+    justify-content: center
+
+.mat-cell 
+    text-align: center
+    justify-content: center
+
+tr.table-detail-row
+  height: 0
+
+tr.table-element-row:not(.table-expanded-row):hover 
+  background: darkgrey
+
+tr.table-element-row:not(.table-expanded-row):active 
+  background: grey
+  @include mat-elevation(8)
+
+.table-element-row td 
+  border-bottom-width: 0
+
+.table-element-detail 
+  overflow: hidden
+
+.element-detail-style 
+  text-align: left
+  justify-content: left
+  padding: 10px
+
+.detail-profile
+  padding: 10px
+
+.profile-pic
+  text-align: center
+  justify-content: center
+  max-width: 100%
+  padding-bottom: 15px
+
+.profile-pic  img
+  height: fit-content
+  max-width: 100%
+  max-height: 250px !important
+  object-fit: cover
+  object-position: center
+
+.profile-info
+  padding: 15px
+
+.detail-background
+  padding: 10px
+
+.detail-powers
+  padding: 10px
+  
+.detail-skills
+  padding: 10px
+  
+
+
+
+
+

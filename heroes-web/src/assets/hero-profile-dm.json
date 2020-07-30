@@ -1,0 +1,101 @@
+[
+    {
+        "id": "",
+        "name": "Ultraman",
+        "location": "Japan",
+        "popularity": "5",
+        "rating": "10",
+        "rank": "1",
+        "profile": {
+            "pic": "https://rvlabsstorage.blob.core.windows.net/ngassets/ultraman-lg.jpg",
+            "firstseen": "1966",
+            "origin": "Nebula M78",
+            "background": "Ultraman visited the Earth after chasing the Space Monster Bemular, he protected the Earth against monster and alien threats. Aside from his main attack Specium Ray, he also possesses a number of techniques. His place of origin is Nebula M78. Despite his strength, he is also friendly to non-hostile monsters. His human form on Earth is Shin Hayata of the Science Special Search-Party. He is also a member of the Ultra Brothers."         
+        },
+        "powers": [
+            { "id": "", "name": "Transformation", "description": "switch between his human state and Ultraman" },
+            { "id": "", "name": "Specium Ray", "description": "a beam of white energy which consists of an extraterrestrial mineral called Specium" },
+            { "id": "", "name": "Ultra Slash", "description": "an energy projectile saw disc attack launched from Ultraman's right arm in a manner of a flying disc" }
+        ], 
+        "skills": [
+            { "id": "", "name": "melee combat" },
+            { "id": "", "name": "brute strengtht" },
+            { "id": "", "name": "people skillz" }
+        ]
+        
+    },
+    {
+        "id": "",
+        "name": "Deadpool",
+        "location": "Canada",
+        "popularity": "5",
+        "rating": "9",
+        "rank": "3",
+        "profile": {
+            "pic": "https://rvlabsstorage.blob.core.windows.net/ngassets/deadpool-lg.jpg",
+            "firstseen": "1991",
+            "origin": "",
+            "background": "foul-mouthed mercenary now known as Deadpool was once little more than medical waste, written off as a miscarriage of science and technology by the directors of the Canadian government's enigmatic Weapon X project. Were its name known outside certain highly specialized circles, the black-ops initiative would have boasted a distinguished -- if blood-spattered -- track record. Previously, it's technicians had spawned a number of noteworthy scions -- including the feral Wolverine, maverick mutant adventurer, and the savage Sabretooth, psychotic murder machine."
+        },
+        "powers": [
+            { "id": "", "name": "superhuman healing", "description": "heals at an incredibly increased rate, allowing him to recover from almost any wound in moments" },
+            { "id": "", "name": "Telepathic Immunity", "description": "immune to being mind controlled even by the high level telepaths" },
+            { "id": "", "name": "Immortality", "description": "aging process has slowed down to the point where he can be considered immortal and can no longer die by natural causes" }
+        ], 
+        "skills": [
+            { "id": "", "name": "hand-to-hand combat" },
+            { "id": "", "name": "His Mouth" },
+            { "id": "", "name": "Unpredictability" }
+        ]
+    },
+    {
+        "id": "",
+        "name": "Wolverine",
+        "location": "Canada",
+        "popularity": "7",
+        "rating": "1",
+        "rank": "2",
+        "profile": {
+            "pic": "https://rvlabsstorage.blob.core.windows.net/ngassets/wolverine-lg.jpg",
+            "firstseen": "1897",
+            "origin": "",
+            "background": "James Howlett was born to wealthy John and Elizabeth Howlett in Alberta, Canada, during the last years of the 19th century. As a child, he was frail and unhealthy due to his overactive mutant immune system and was neglected by his mother, who had been institutionalized following the death of her first son, John Jr., in 1897. James’s mutant abilities were triggered when his father was shot by the Howlett groundskeeper Thomas Logan, whom he did not know was his real father. James killed Logan, slashed the face of Logan’s son and his friend Dog, and left Alberta with a childhood friend, Rose O’Hara.."
+        },
+        "powers": [
+            { "id": "", "name": "Superhuman Physique", "description": "strength, durability, and speed are noticeably much higher than that of a normal human being" },
+            { "id": "", "name": "Regeneration", "description": "mutant physique gives him an accelerated healing factor, allowing him to heal up from any wounds, major or minor." },
+            { "id": "", "name": "Mental Resistance", "description": "nigh-immune to mental powers" }
+        ], 
+        "skills": 
+        [
+            { "id": "", "name": "Master Martial Artist" },
+            { "id": "", "name": "berserker rage" },
+            { "id": "", "name": "heavy drinker and smoker" }
+        ]
+    },
+    {
+        "id": "",
+        "name": "Hulk",
+        "location": "Usa",
+        "popularity": "5",
+        "rating": "7",
+        "rank": "4",
+        "profile": {
+            "pic": "https://rvlabsstorage.blob.core.windows.net/ngassets/hulk-lg.jpeg",
+            "firstseen": "1962",
+            "origin": "",
+            "background": "Bruce Banner was born to Dr. Brian Banner and his wife Rebecca. Brian was an alcoholic father whose jealousy grew for Bruce as Rebecca shifted her focus from Brian to Bruce,Further, Brian believed that his radiation work had altered his DNA and given him a mutant son. Brian then abused Bruce and finally murdered Rebecca, then was placed in a mental hospital. After that, Bruce was raised by his aunt and father's sister, Susan Banner, who understood his great pain and rage over his childhood sufferings thanks to his crazed father, and raised him with love and care as if he were her own child."
+        },
+        "powers": [
+            { "id": "", "name": "Regeneration", "description": "can regenerate from the damage, his Healing Factor also allows him to be immune, and practically makes him immortal" },
+            { "id": "", "name": "Thunder Clap", "description": "smashing his two hands together to create a shockwave" },
+            { "id": "", "name": "Gamma Energy Absorption", "description": "able to use manipulate gamma energy - he can use gamma energy to increase his own strength" }
+        ], 
+        "skills": 
+        [
+            { "id": "", "name": "Rage" },
+            { "id": "", "name": "Intelligence" },
+            { "id": "", "name": "Meditation" }
+        ]
+    }
+]

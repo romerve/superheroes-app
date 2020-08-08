@@ -8,6 +8,7 @@ namespace HeroesApi.Services
 
         Task<IEnumerable<Heroe>> InitializeDb();
         Task<IEnumerable<Heroe>> GetHeroList();
+        Task CreateHero(string hero);
 
     }
     

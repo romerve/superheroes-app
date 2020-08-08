@@ -38,5 +38,14 @@ namespace HeroesApi.Controllers
             return new OkObjectResult(hero);
 
         }
+
+        [ActionName("addhero")]
+        public async Task<IActionResult> AddHero(dynamic hero)
+        {
+            Console.WriteLine("Creating hero...");
+            await _cosmosDbService.CreateHero(hero.ToString());
+
+            return Ok();
+        }
     }
 }

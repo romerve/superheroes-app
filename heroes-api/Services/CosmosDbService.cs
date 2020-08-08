@@ -89,6 +89,15 @@ namespace HeroesApi.Services
             return results;
 
         }
+
+        public async Task CreateHero(string hero)
+        {
+            Heroe heroItem = JsonSerializer.Deserialize<Heroe>(hero);
+            heroItem.id = Guid.NewGuid().ToString().ToLower();
+
+            await this._container.CreateItemAsync<Heroe>( heroItem, new PartitionKey(heroItem.location));
+            
+        }
         
     }
 }
